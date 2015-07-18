@@ -1,6 +1,6 @@
 {
-  "name": "sails-generate-frontend",
-  "version": "0.11.5",
+  "name": "sails-generate-frontend-gulp",
+  "version": "0.1.5",
   "description": "Generate a frontend for Sails.",
   "main": "lib/index.js",
   "scripts": {
@@ -21,7 +21,7 @@
     "sails-generate-sails.io.js": "~0.11.2"
   },
   "devDependencies": {
-    "sails-generate": "*",
+    "sails-generate": "karnith/sails-generate",
     "reportback": "*",
     "fs-extra": "~0.8.1",
     "bower": "~1.3.1",

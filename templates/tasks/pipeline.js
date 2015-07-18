@@ -1,14 +1,12 @@
 /**
- * grunt/pipeline.js
+ * gulp/pipeline.js
  *
  * The order in which your css, javascript, and template files should be
  * compiled and linked from your views and static HTML files.
  *
- * (Note that you can take advantage of Grunt-style wildcard/glob/splat expressions
+ * (Note that you can take advantage of Gulp-style wildcard/glob/splat expressions
  * for matching multiple files.)
  */
-
-
 
 // CSS files to inject in order
 //
@@ -22,7 +20,7 @@ var cssFilesToInject = [
 // Client-side javascript files to inject in order
 // (uses Grunt-style wildcard/glob/splat expressions)
 var jsFilesToInject = [
-  
+
   // Load sails.io before everything else
   'js/dependencies/sails.io.js',
 
