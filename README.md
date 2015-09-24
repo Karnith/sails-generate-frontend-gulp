@@ -1,5 +1,6 @@
 ![image_squidhome@2x.png](http://i.imgur.com/RIvu9.png)
 # sails-generate-frontend-gulp
+# Depreciated.. use [machinepack-sailsgulpify](https://github.com/Karnith/machinepack-sailsgulpify)
 -----------------------------------------------
 [![NPM version][npm-version-image]][npm-url] [![NPM downloads][npm-downloads-image]][npm-url] [![Dependency Status][dependency-image]][dependency-url] [![MIT License][license-image]][license-url]
 
